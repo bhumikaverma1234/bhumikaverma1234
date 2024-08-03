@@ -1,49 +1,74 @@
-<h2 align="left">Hi 👋! My name is Bhumika Verma and I'm a Mern Stack Developer, from Barabanki</h2>
+<!-- Banner -->
+<p align="center" style="background-color: #333333; padding: 20px;">
+  <img src="https://github.com/user-attachments/assets/884167fe-cf75-49d5-b327-3a4d2814938d" alt="Banner" width="1000"/>
+</p>
 
-###
+<h1 align="center" style="color: #ffffff;">Hi, I'm Bhumika Verma 👋</h1>
+<h3 align="center" style="color: #cccccc;">A Passionate MERN Stack Developer</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<!-- Profile GIF -->
+<p align="center" style="background-color:#1a1a2e; padding: 20px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxZzBxN3RzdmN1N2d2czQ4dnhmaXpqOTJqYzQyN3d2dXJpczB0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" alt="Coding GIF" width="500"/>
+</p>
 
-###
+<!-- Social Links -->
+<p align="center">
+  <a href="mailto:bhumikaverma580@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhumikaverma580%40gmail.com-blue" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhumika%20Verma-blue" alt="LinkedIn Badge">
+  </a>
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+### 👩‍💻 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+- 🌱 I’m currently learning **Advanced React and Next.js**
+- 💼 I’m currently working as a **Web Development Intern at Academor**
+- 📝 I regularly write articles on [your-blog-link.com](https://your-blog-link.com)
+- 💬 Ask me about **JavaScript, React, Node.js, and Java**
+- 📫 How to reach me **bhumikaverma580@gmail.com**
+- ⚡ Fun fact: I love painting and exploring new technologies.
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🛠️ Technologies & Tools
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express"/>
+  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java"/>
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
+</p>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### 📈 GitHub Stats
 
-###
+<p align="center" style="background-color: #333333; padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Bhoomika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Bhoomika's Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:bhumikaverma580@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhumikaverma580%40gmail.com-blue" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhumika%20Verma-blue" alt="LinkedIn Badge">
+  </a>
+</p>
+
