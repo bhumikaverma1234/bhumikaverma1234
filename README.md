@@ -16,7 +16,7 @@
   <a href="mailto:bhumikaverma580@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhumikaverma580%40gmail.com-blue" alt="Email Badge">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="http://www.linkedin.com/in/bhumikaverma12">
     <img src="https://img.shields.io/badge/LinkedIn-Bhumika%20Verma-blue" alt="LinkedIn Badge">
   </a>
 </p>
@@ -67,7 +67,7 @@
   <a href="mailto:bhumikaverma580@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhumikaverma580%40gmail.com-blue" alt="Email Badge">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href ="http://www.linkedin.com/in/bhumikaverma12">
     <img src="https://img.shields.io/badge/LinkedIn-Bhumika%20Verma-blue" alt="LinkedIn Badge">
   </a>
 </p>
