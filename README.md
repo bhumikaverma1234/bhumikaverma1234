@@ -1,4 +1,5 @@
-![Java Developer Banner]Blue Teal Bubbles Corporate LinkedIn Career Page Banner (1)](https://github.com/user-attachments/assets/4fddfc7b-d0c8-4673-bdb7-5e73d7f56c7e)
+![Java Developer Banner]("![Blue Teal Bubbles Corporate LinkedIn Career Page Banner (1)](https://github.com/user-attachments/assets/89fb20cf-18de-49fe-a07b-0122055da438)
+")
 
 
 # 👋 Hi, I'm Bhumika Verma
