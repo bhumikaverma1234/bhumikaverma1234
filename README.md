@@ -1,74 +1,63 @@
-<!-- Banner -->
-<p align="center" style="background-color: #333333; padding: 20px;">
-  <img src="https://github.com/user-attachments/assets/884167fe-cf75-49d5-b327-3a4d2814938d" alt="Banner" width="1000"/>
-</p>
+![Java Developer Banner](https://user-images.githubusercontent.com/placeholder/java-dev-banner.png)
 
-<h1 align="center" style="color: #ffffff;">Hi, I'm Bhumika Verma 👋</h1>
-<h3 align="center" style="color: #cccccc;">A Passionate MERN Stack Developer</h3>
+# 👋 Hi, I'm Bhumika Verma
 
-<!-- Profile GIF -->
-<p align="center" style="background-color:#1a1a2e; padding: 20px;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxZzBxN3RzdmN1N2d2czQ4dnhmaXpqOTJqYzQyN3d2dXJpczB0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" alt="Coding GIF" width="500"/>
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="mailto:bhumikaverma580@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhumikaverma580%40gmail.com-blue" alt="Email Badge">
-  </a>
-  <a href="http://www.linkedin.com/in/bhumikaverma12">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhumika%20Verma-blue" alt="LinkedIn Badge">
-  </a>
-</p>
+### 🚀 Java Developer | Backend Enthusiast | Spring Boot & Hibernate Lover
 
 ---
 
 ### 👩‍💻 About Me
-
-- 🌱 I’m currently learning **Advanced React and Next.js**
-- 💼 I’m currently working as a **Web Development Intern at Academor**
-- 📝 I regularly write articles on [your-blog-link.com](https://your-blog-link.com)
-- 💬 Ask me about **JavaScript, React, Node.js, and Java**
-- 📫 How to reach me **bhumikaverma580@gmail.com**
-- ⚡ Fun fact: I love painting and exploring new technologies.
+I'm a passionate Java developer with a strong foundation in building scalable backend systems. I love creating efficient, clean, and maintainable code using modern Java technologies.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 💼 Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java"/>
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java 8](https://img.shields.io/badge/Java%208-orange?style=for-the-badge)
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center" style="background-color: #333333; padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Bhoomika's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Bhoomika's Top Languages" />
-</p>
+### 🛠️ Tools & Technologies
+- IntelliJ IDEA
+- Git & GitHub
+- Postman
+- Maven
+- MySQL & MongoDB
+- RESTful APIs
 
 ---
 
-### 📫 Connect with Me
+### 📂 Featured Projects
 
-<p align="center">
-  <a href="mailto:bhumikaverma580@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhumikaverma580%40gmail.com-blue" alt="Email Badge">
-  </a>
-  <a href ="http://www.linkedin.com/in/bhumikaverma12">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhumika%20Verma-blue" alt="LinkedIn Badge">
-  </a>
-</p>
+#### 📌 Hibernate CRUD App
+> A fully functional CRUD (Create, Read, Update, Delete) application using Hibernate and MySQL.
 
+#### 📌 Spring Boot REST API
+> Developed RESTful APIs with Spring Boot and Spring Data JPA for real-time data management.
+
+#### 📌 MongoDB Integration
+> Worked on MongoDB integration in Java using Spring Data MongoDB.
+
+---
+
+### 📫 Let's Connect!
+- 📧 Email: bhumikaverma580@gmail.com
+- 📍 Location: India
+- 💬 Ask me about: Java, Spring Boot, Hibernate, SQL
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhoomikaverma&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikaverma&layout=compact&theme=tokyonight)
+
+---
+
+Thanks for visiting my profile! 😊
