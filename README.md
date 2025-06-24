@@ -1,4 +1,4 @@
-![Java Developer Banner]("[file:///C:/Users/bhumika%20verma/Downloads/BlueBanner.pdf](https://www.canva.com/design/DAGM0ypQ_P8/TrTyb_l63Y_koMTQwagKqQ/view?utm_content=DAGM0ypQ_P8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf0b18121d5)")
+![Java Developer Banner]("file:///C:/Users/bhumika%20verma/Downloads/BlueBanner.pdf")
 
 # 👋 Hi, I'm Bhumika Verma
 
