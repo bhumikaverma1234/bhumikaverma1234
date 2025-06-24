@@ -1,4 +1,4 @@
-![Java Developer Banner]("C:\Users\bhumika verma\Downloads\Blue Teal Bubbles Corporate LinkedIn Career Page Banner.pdf")
+![Java Developer Banner]("file:///C:/Users/bhumika%20verma/Downloads/BlueBanner.pdf")
 
 # 👋 Hi, I'm Bhumika Verma
 
