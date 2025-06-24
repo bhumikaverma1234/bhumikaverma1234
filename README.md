@@ -1,4 +1,4 @@
-![Java Developer Banner](https://user-images.githubusercontent.com/placeholder/java-dev-banner.png)
+![Java Developer Banner]("C:\Users\bhumika verma\Downloads\Blue Teal Bubbles Corporate LinkedIn Career Page Banner.pdf")
 
 # 👋 Hi, I'm Bhumika Verma
 
